@@ -9,3 +9,5 @@
 ## **Esclarecimento**
 
 ###### Todos os analisadores foram feitos em somente um arquivo devido à exigência do docente que ministrou a disciplina.
+
+###### Todas as informações relativas ao trabalho encontram-se nos PDFs localizados na pasta principal e de cada analisador.
