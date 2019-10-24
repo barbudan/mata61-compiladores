@@ -1,0 +1,62 @@
+letra escolhe_letra(int x) {
+  se (x == 1) { tome 'a'; } senao {
+  se (x == 2) { tome 'b'; } senao {
+  se (x == 3) { tome 'c'; } senao {
+  se (x == 4) { tome 'd'; } senao {
+  se (x == 5) { tome 'e'; } senao {
+  se (x == 6) { tome 'f'; } senao {
+  se (x == 7) { tome 'g'; } senao {
+  se (x == 8) { tome 'h'; } senao {
+  se (x == 9) { tome 'i'; } senao {
+  se (x == 10) { tome 'j'; } senao {
+  se (x == 11) { tome 'k'; } senao {
+  se (x == 12) { tome 'l'; } senao {
+  se (x == 13) { tome 'm'; } senao {
+  se (x == 14) { tome 'n'; } senao {
+  se (x == 15) { tome 'o'; } senao {
+  se (x == 16) { tome 'p'; } senao {
+  se (x == 17) { tome 'q'; } senao {
+  se (x == 18) { tome 'r'; } senao {
+  se (x == 19) { tome 's'; } senao {
+  se (x == 20) { tome 't'; } senao {
+  se (x == 21) { tome 'u'; } senao {
+  se (x == 22) { tome 'v'; } senao {
+  se (x == 23) { tome 'w'; } senao {
+  se (x == 24) { tome 'x'; } senao {
+  se (x == 25) { tome 'y'; } senao {
+  se (x == 26) { tome 'z'; } senao {
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+  }
+}
+
+int mainha() {
+  int n;
+  
+  le(n);
+  
+  escreve(escolhe_letra(n));
+}

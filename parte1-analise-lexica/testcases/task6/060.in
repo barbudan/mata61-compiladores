@@ -1,0 +1,11 @@
+int fat(int n) {
+	se (n <= 0) toma 1;
+toma n * fat(n - 1);
+}
+
+int mainha() {
+	int n;
+	le(n);
+	escreve(fat(n));
+	toma 0;
+}

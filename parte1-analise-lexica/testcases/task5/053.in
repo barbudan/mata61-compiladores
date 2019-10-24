@@ -1,0 +1,3 @@
+int a;
+double pi= 3.14159	;
+letra nome[256];
