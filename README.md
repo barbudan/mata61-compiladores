@@ -6,7 +6,7 @@
 
 ###### Os analisadores foram desenvolvidos de forma incremental, ou seja, cada etapa depende da anterior. A **Parte 3** contém todos os analisadores em conjunto.
 
-## **Esclarecimento**
+## **Esclarecimentos**
 
 ###### Todos os analisadores foram feitos em somente um arquivo devido à exigência do docente que ministrou a disciplina.
 
