@@ -1,0 +1,2 @@
+real sqrt(real n);
+nada ordena(int v[], int n);

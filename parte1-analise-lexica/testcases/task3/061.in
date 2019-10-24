@@ -1,0 +1,11 @@
+int fib(int n) {
+	se (n <= 0) toma 1;
+toma fib(n - 1) + fib(n - 2);
+}
+
+int mainha() {
+	int n;
+	le(n);
+	escreve(fib(n));
+	toma 0;
+}
